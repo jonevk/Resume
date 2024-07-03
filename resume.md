@@ -16,8 +16,9 @@ CERTIFICATIONS
 Cisco - CCNA Dev Net - Dec 2023​
 Cisco - CCNA - Route Switch March 2009​
  
-EXPERIENCE 
-L2. Network Engineer, ieMentor/Driven, WI — Nov  2020 - Present  
+WORK HISTORY
+
+L2 Network Engineer, ieMentor/Driven, WI — Nov  2020 - Jun 2024  
 • Designed and built CSW environment for national law firm 
 • Migrated Mexico site for customer to new C9K using only local assistance 
 • Designed and implemented new IP Prefix to replace Elan circuit at a 24/7 Mfr customer. 
@@ -26,9 +27,13 @@ L2. Network Engineer, ieMentor/Driven, WI — Nov  2020 - Present
 Sr. Network Engineer, Ascension Technologies, WI — Dec  2018 - Nov  2020  
 • Assisted Migration of Palo and Panorama to Fortunate 
 • Built Nexus vPC ToR switch stack for AIX Servers 
+• Created python scritps to scarape and converge GE network for legacy migration
 
 Network Engineer, Froedtert Health, WI — Jan  2017 - Dec 2018  
-• Assisted Major Network Refresh to Cat 3K 
+• Assisted Major Network Refresh to Cat 3K
+• Administrate ISE Infrastructure
+• Implement PoC for NetBrain 
+• Flattened legacy switch layer in 125 closets
 
 Network Engineer, Munger Technical Services, WI — July 2014 – Jan 2017  
 • Responsible for management and maintenance of Customers Cisco Unity based VOIP 
