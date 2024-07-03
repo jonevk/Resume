@@ -7,16 +7,16 @@ T 414-204-0628
 jon@vankleeck.org 
  
  
-PROFILE 
+#PROFILE 
 I am a problem solver, I enjoy interfacing with the client and the tech staff and to help the 
 client help us but “speaking their language”. I love technology and enjoy helping people 
 and companies use the available products and service to make for a more productive and 
 enjoyable environment. 
-CERTIFICATIONS 
+#CERTIFICATIONS 
 Cisco - CCNA Dev Net - Dec 2023​
 Cisco - CCNA - Route Switch March 2009​
  
-WORK HISTORY
+#WORK HISTORY
 
 L2 Network Engineer, ieMentor/Driven, WI — Nov  2020 - Jun 2024  
 • Designed and built CSW environment for national law firm 
