@@ -43,13 +43,13 @@ Network Engineer, Rocket Technology Group, LLC, West Allis, WI — July 2013 –
 • Helped a local company with a major SIP migration.  
 
 Network Engineer, MC Services, Pewaukee, WI — Aug 2010 – Jan 2017 
-•Lead design engineer for network projects. 
-•Lead security engineer for firewall projects. 
-•Responsible for maintaining ISP’s Datacenter. 
-•Designed Data Center project for Waukesha company expanding to a multi-location 
-enterprise. Designed and Implemented address plan to accommodate branch office 
-communication via point to point VPN connections. 
-•Lead Engineer for Multi-national companies Macintosh pilot test program. 
+• Lead design engineer for network projects. 
+• Lead security engineer for firewall projects. 
+• Responsible for maintaining ISP’s Datacenter. 
+• Designed Data Center project for Waukesha company expanding to a multi-location 
+  enterprise. Designed and Implemented address plan to accommodate branch office 
+  communication via point to point VPN connections. 
+• Lead Engineer for Multi-national companies Macintosh pilot test program. 
 
 Network Engineer, Sieve Networks, Wauwatosa, WI —Jan  2008 - Nov 2009 
 • Designed and implemented firewall solutions for various client networks. 
