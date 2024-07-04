@@ -4,7 +4,7 @@ Jonathan Van Kleeck
 West Allis, WI  53219 
 T 414-204-0628 
  
-email: jon@vankleeck.org 
+email: jon@vankleeck.org   
 linkedin: https://www.linkedin.com/in/jon-van-kleeck-05166092/
  
  
