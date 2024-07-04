@@ -1,7 +1,7 @@
 # Jonathan E Van Kleeck #
-Jonathan Van Kleeck\ 
-7569 West Beloit Road\ 
-West Allis, WI  53219\
+Jonathan Van Kleeck 
+7569 West Beloit Road  
+West Allis, WI  53219 
 T 414-204-0628 
  
 email: jon@vankleeck.org 
