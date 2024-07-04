@@ -15,8 +15,8 @@ and companies use the available products and service to make for a more producti
 enjoyable environment. 
 
 # CERTIFICATIONS 
-Cisco - CCNA Dev Net - Dec 2023  ​
-Cisco - CCNA - Route Switch March 2009​  
+Cisco - CCNA Dev Net - Dec 2023  
+Cisco - CCNA - Route Switch March 2020 (Expired)​  
  
 # WORK HISTORY #
 
