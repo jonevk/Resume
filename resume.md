@@ -4,7 +4,8 @@ Jonathan Van Kleeck
 West Allis, WI  53219 
 T 414-204-0628 
  
-jon@vankleeck.org 
+email: jon@vankleeck.org 
+linkedin: https://www.linkedin.com/in/jon-van-kleeck-05166092/
  
  
 # PROFILE 
@@ -87,10 +88,11 @@ Management, Plesk ISP Site Management, VMWare Infrastructure, CentOS5, MacOSX,
 Unix TCP/IP tools, WireShark, Fluke Wireless Survey Tool, Barracuda Spam Firewall, 
 FortiNet-FortiMail Spam Firewall. FortiOS​
  
-EDUCATION 
+# EDUCATION 
 Marquette University - Non Degree - Computer Engineering​
 Central Christian Academy - Degree - General Studies 
-SKILLS 
+
+# SKILLS 
 Active Directory User Administration​
 Adobe Creative Suite​
 Apple iLife​
