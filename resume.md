@@ -89,7 +89,7 @@ Unix TCP/IP tools, WireShark, Fluke Wireless Survey Tool, Barracuda Spam Firewal
 FortiNet-FortiMail Spam Firewall. FortiOS​
  
 # EDUCATION 
-Marquette University - Non Degree - Computer Engineering   
+Marquette University - Non Degree - Computer Engineering  
 ​Central Christian Academy - Degree - General Studies  
 
 # SKILLS 
