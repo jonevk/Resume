@@ -103,4 +103,4 @@ Marquette University - Non Degree - Computer Engineering
 | MacOSX | Expert | 
 | WireShark | Intermediate| 
 | FortiOS​ | Intermediate |  
-| TerraForm | Beginner |
+| TerraForm | Basic |
