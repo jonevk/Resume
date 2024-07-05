@@ -81,13 +81,6 @@ Wiki servers and Drupal.
 • Maintained direct client interaction for trouble ticket entry, troubleshooting and 
 problem resolution.  
  
-Skills maintained include; Cisco Secure Workload, Cisco Autonomous AP, Cisco WLC, 
-Cisco Pix/ASA, Cisco Unity Express, Cisco IOS, Windows Server 200X - 
-DHCP/DNS/Radius/AD User Management, Mac OSX Server - DHCP/DN/OD User 
-Management, Plesk ISP Site Management, VMWare Infrastructure, CentOS5, MacOSX, 
-Unix TCP/IP tools, WireShark, Fluke Wireless Survey Tool, Barracuda Spam Firewall, 
-FortiNet-FortiMail Spam Firewall. FortiOS​
- 
 # EDUCATION 
 Marquette University - Non Degree - Computer Engineering  
 ​Central Christian Academy - Degree - General Studies  
