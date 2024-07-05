@@ -21,10 +21,10 @@ Cisco - CCNA - Route Switch March 2020 (Expired)​
 # WORK HISTORY #
 
 *L2 Network Engineer, ieMentor/Driven*, WI — Nov  2020 - Jun 2024   
-  * • Designed and built CSW environment for national law firm  
-  * • Migrated Mexico site for customer to new C9K using only local assistance  
-  * • Designed and implemented new IP Prefix to replace Elan circuit at a 24/7 Mfr customer.  
-  * • Created Nornir scripts to migrate large customer asset sale to new owners.  
+  * Designed and built CSW environment for national law firm  
+  * Migrated Mexico site for customer to new C9K using only local assistance  
+  * Designed and implemented new IP Prefix to replace Elan circuit at a 24/7 Mfr customer.  
+  * Created Nornir scripts to migrate large customer asset sale to new owners.  
 
 *Sr. Network Engineer, Ascension Technologies*, WI — Dec  2018 - Nov  2020  
 • Assisted Migration of Palo and Panorama to Fortunate  
