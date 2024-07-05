@@ -6,7 +6,6 @@ Skills maintained include
 | Cisco Autonomous AP, Cisco WLC | Intermediate |
 | Cisco Pix/ASA | Intermediate
 | Cisco IOS | Expert |
-| Windows Server 200X |
 | Python | Intermediate |
 | Nornir | Basic |
 | Netmiko | Intermediate |
@@ -14,7 +13,7 @@ Skills maintained include
 | Nautobot | Intermediate |
 | DHCP/DNS/Radius/AD User Management | Intermediate |
 | VMWare esxi | Intermediate |
-| CentOS | 
-| MacOSX | 
-| WireShark | | 
-| FortiOS​ | |
+| CentOS | Intermediate |
+| MacOSX | Expert | 
+| WireShark | Intermediate| 
+| FortiOS​ | Intermediate |

@@ -93,8 +93,20 @@ Marquette University - Non Degree - Computer Engineering
 ​Central Christian Academy - Degree - General Studies  
 
 # SKILLS 
-Active Directory User Administration​  
-Adobe Creative Suite​  
-Apple iLife​  
-Apple iWork​  
-Apple Final Cut Pro​  
+| Skill | Level |
+| --------------------------------- | --------------- |
+| Cisco Secure Workload | Intermediate |
+| Cisco Autonomous AP, Cisco WLC | Intermediate |
+| Cisco Pix/ASA | Intermediate
+| Cisco IOS | Expert |
+| Python | Intermediate |
+| Nornir | Basic |
+| Netmiko | Intermediate |
+| Netbox | Intermediate |
+| Nautobot | Intermediate |
+| DHCP/DNS/Radius/AD User Management | Intermediate |
+| VMWare esxi | Intermediate |
+| CentOS | Intermediate |
+| MacOSX | Expert | 
+| WireShark | Intermediate| 
+| FortiOS​ | Intermediate |
