@@ -90,7 +90,7 @@ Marquette University - Non Degree - Computer Engineering
 | --------------------------------- | --------------- |
 | Cisco Secure Workload | Intermediate |
 | Cisco Autonomous AP, Cisco WLC | Intermediate |
-| Cisco Pix/ASA | Intermediate
+| Cisco Pix/ASA | Intermediate |
 | Cisco IOS | Expert |
 | Python | Intermediate |
 | Nornir | Basic |
@@ -102,4 +102,5 @@ Marquette University - Non Degree - Computer Engineering
 | CentOS | Intermediate |
 | MacOSX | Expert | 
 | WireShark | Intermediate| 
-| FortiOS​ | Intermediate |
+| FortiOS​ | Intermediate |  
+| TerraForm | Beginner |
