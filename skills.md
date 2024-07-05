@@ -12,7 +12,6 @@ Skills maintained include
 | Netmiko | Intermediate |
 | Netbox | Intermediate |
 | Nautobot | Intermediate |
-
 | DHCP/DNS/Radius/AD User Management | Intermediate |
 | VMWare esxi | Intermediate |
 | CentOS | 
