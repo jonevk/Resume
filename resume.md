@@ -49,7 +49,7 @@ Cisco - CCNA - Route Switch March 2020 (Expired)​
   * Network remote management and monitoring systems design and implementation​  
   * Helped a local company with a major SIP migration  
 
-### *Network Engineer, MC Services, Pewaukee*, WI — Aug 2010 – Jan 2017 
+### *Network Engineer, MC Services, Pewaukee*, WI — Aug 2010 – Jan 2013 
   * Lead design engineer for network projects  
   * Lead security engineer for firewall projects  
   * Responsible for maintaining ISP’s Datacenter  
