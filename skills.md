@@ -1,10 +1,9 @@
-Skills maintained include  
-
+# SKILLS 
 | Skill | Level |
 | --------------------------------- | --------------- |
 | Cisco Secure Workload | Intermediate |
 | Cisco Autonomous AP, Cisco WLC | Intermediate |
-| Cisco Pix/ASA | Intermediate
+| Cisco Pix/ASA | Intermediate |
 | Cisco IOS | Expert |
 | Python | Intermediate |
 | Nornir | Basic |
@@ -16,4 +15,5 @@ Skills maintained include
 | CentOS | Intermediate |
 | MacOSX | Expert | 
 | WireShark | Intermediate| 
-| FortiOS​ | Intermediate |
+| FortiOS​ | Intermediate |  
+| TerraForm | Basic |
