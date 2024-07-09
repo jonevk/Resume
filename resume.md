@@ -29,7 +29,7 @@ Cisco - CCNA - Route Switch March 2020 (Expired)​
 ### *Sr. Network Engineer, Ascension Technologies*, WI — Dec  2018 - Nov  2020  
   * Assisted Migration of Palo and Panorama to Fortunate  
   * Built Nexus vPC ToR switch stack for AIX Servers  
-  * Created python scritps to scarape and converge GE network for legacy migration  
+  * Created python scritps to scrape and converge GE network for legacy migration  
 
 ### *Network Engineer, Froedtert Health*, WI — Jan  2017 - Dec 2018  
   * Assisted Major Network Refresh to Cat 3K  
