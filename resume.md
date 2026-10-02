@@ -23,7 +23,7 @@ Cisco - CCNA - Route Switch March 2020 (Expired)​
 ### *Network Engineer, Aurora Health/TEK Systems*, WI - Jul 2024 - Nov 2024
   * Assist Wireless migration project for Cisco to Aruba conversion
   * NetBrain scripting work
-  * Documentation effort.
+  * Documentation effort
 
 ### *L2 Network Engineer, ieMentor/Driven*, WI — Nov  2020 - Jun 2024   
   * Designed and built CSW environment for national law firm  
